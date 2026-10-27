@@ -2,7 +2,7 @@
 
 A free study planner for medical and allied health students (MBBS, BDS, DPT, Pharm-D, Nursing, MLT, Radiology and more). It runs in the browser, installs on your phone like an app, and works offline. All your data stays on your own device.
 
-**Live demo:** https://AAPKA-USERNAME.github.io/medplanner/
+**Live demo:** https://adil.liveblog365.com
 
 ## Features
 
